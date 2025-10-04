@@ -110,7 +110,7 @@ npm install
 
 3. Create environment file:
 ```bash
-cp .env.example .env
+cp env.example .env
 ```
 
 4. Update the `.env` file:
